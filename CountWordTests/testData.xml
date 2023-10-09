@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<UserDetails>
+	<String str =""/>
+	<String str =" пи пи пи ля ля ля мышка сэй ми пи пи пи" word ="пи" expected ="6"/>
+	<String str =" йоу мизев ты ты крутой лоъ" word ="ты" expected ="1"/>
+	<String str ="естирование предмет важный пуфогарфафафывгафывгшафда" word ="аниме" expected ="0"/>
+</UserDetails>
